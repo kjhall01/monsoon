@@ -19,3 +19,6 @@ jupyter notebook IndiaJJAS.ipynb
 
 select kernel >> climate
 then click "restart and run all cells" 
+
+# Results
+[!1f04c617-a650-410e-8c1b-5485b4d30c99.jpg]
